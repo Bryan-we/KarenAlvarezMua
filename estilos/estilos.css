@@ -192,7 +192,7 @@ h3 {
     margin: 10px 0;
     border-radius: 4px;
     background: #c41efa;
-    border: 1px solid #c000ff;
+    border: 1px solid #ff00f5;
     overflow: hidden;
 }
 .accordion-content:nth-child(2){
@@ -201,7 +201,7 @@ h3 {
 }
 .accordion-content:nth-child(3){
     background: #c41efa;
-    border: 1px solid #c000ff;
+    border: 1px solid #ff00f5;
 }
 .accordion-content:nth-child(4){
     background-color: #f32bff;
@@ -209,7 +209,7 @@ h3 {
 }
 .accordion-content:nth-child(5){
     background: #c41efa;
-    border: 1px solid #c000ff;
+    border: 1px solid #ff00f5;
 }
 
 .accordion-content:nth-child(6){
