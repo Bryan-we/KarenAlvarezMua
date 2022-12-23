@@ -192,29 +192,23 @@ h3 {
     margin: 10px 0;
     border-radius: 4px;
     background: #c41efa;
-    border: 1px solid #ff00f5;
     overflow: hidden;
 }
 .accordion-content:nth-child(2){
     background-color: #f32bff;
-    border-color: #ff00e0;
 }
 .accordion-content:nth-child(3){
     background: #c41efa;
-    border: 1px solid #ff00f5;
 }
 .accordion-content:nth-child(4){
     background-color: #f32bff;
-    border-color: #ff00e0;
 }
 .accordion-content:nth-child(5){
     background: #c41efa;
-    border: 1px solid #ff00f5;
 }
 
 .accordion-content:nth-child(6){
     background-color: #f32bff;
-    border-color: #ff00e0;
 }
 .accordion-content.open{
     padding-bottom: 1px;
